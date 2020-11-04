@@ -30,7 +30,7 @@
     A fake / hidden checkbox is used as click reciever,
     so you can use the :checked selector on it.
     -->
-    <input type="checkbox" />
+    <input type="checkbox" value="2" />
     
     <!--
     Some spans to act as a hamburger.
